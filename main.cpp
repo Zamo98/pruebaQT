@@ -14,7 +14,7 @@ int main(int argc, char **argv)
 {
     QApplication app (argc, argv);
 
-    QPushButton button ("Hello world !");
+    QPushButton button ("Hola Mundo !");
     button.show();
 
     return app.exec();
